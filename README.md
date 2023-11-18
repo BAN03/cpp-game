@@ -1,2 +1,2 @@
-# cpp-game
-my first game project with c++ and raylib
+## RAYLIB GAME
+### game project with raylib
